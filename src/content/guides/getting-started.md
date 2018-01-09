@@ -234,7 +234,7 @@ __package.json__
 {
   ...
   "scripts": {
-    "build": "webpack"
+    "build": "npx webpack"
   },
   ...
 }
